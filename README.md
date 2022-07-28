@@ -4,7 +4,7 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasthalless&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> -->
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 <!--   <img align="left" width="430em" src="https://github.com/lucasthalless/lucasthalless/blob/main/biggerpicture.jpg"/> -->
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +18,7 @@
   
   ##
  
-<div>
+<div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/lucastds/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucas.tha.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
 </div>
-

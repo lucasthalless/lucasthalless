@@ -19,6 +19,5 @@
   ##
  
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/lucastds/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucas.tha.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/lucastds/"><img height="30em" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>

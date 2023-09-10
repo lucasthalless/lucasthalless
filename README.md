@@ -6,6 +6,7 @@
 
 <div style="display: inline_block" align="center"><br>
 <!--   <img align="left" width="430em" src="https://github.com/lucasthalless/lucasthalless/blob/main/biggerpicture.jpg"/> -->
+  <img align="center" alt="Next" height="30" width="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Node" height="30" width="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

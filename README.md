@@ -6,7 +6,6 @@
 
 <div style="display: inline_block" align="center"><br>
 <!--   <img align="left" width="430em" src="https://github.com/lucasthalless/lucasthalless/blob/main/biggerpicture.jpg"/> -->
-  <!-- <p>𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</p> -->
   <!-- ✩₊˚.⋆☾⋆⁺₊✧ 𓃢 -->
   <p>Web/mobile developer with 2+ years of experience! I work mainly with this technologies:</p>
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
@@ -24,12 +23,11 @@
   <p>Currently studying:</p>
   <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" />
 
-  #
-
 </div>
   
   ##
  
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/lucastds/"><img height="30em" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <p>𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</p>
 </div>

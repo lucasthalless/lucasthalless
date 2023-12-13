@@ -1,6 +1,5 @@
 <div align="left">
   <a href="https://github.com/lucasthalless">
-  <a href="./README_en.md">English</a> 👈
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthalless&layout=compact&langs_count=7&theme=midnight-purple"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasthalless&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> -->
 </div>
@@ -8,7 +7,7 @@
 <div style="display: inline_block" align="center"><br>
 <!--   <img align="left" width="430em" src="https://github.com/lucasthalless/lucasthalless/blob/main/biggerpicture.jpg"/> -->
   <!-- ✩₊˚.⋆☾⋆⁺₊✧ 𓃢 -->
-  <p>Desenvolvedor Web/mobile com mais de dois anos de experiência, trabalho principalmente com essas tecnologias:</p>
+  <p>Web/mobile developer with 2+ years of experience! I work mainly with this technologies:</p>
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +20,7 @@
 
   #
 
-  <p>Atualmente estudando:</p>
+  <p>Currently studying:</p>
   <img align="center" alt="Next" height="30" width="30" src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" />
   <img align="center" alt="Laravel" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="VueJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />

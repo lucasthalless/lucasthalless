@@ -1,6 +1,7 @@
 <div align="left">
   <a href="https://github.com/lucasthalless">
   <a href="./README_en.md">English</a> 👈
+  </br>
   <a href="https://s184.convertio.me/p/Hlfa3ZPKE02h5IZfUJESFA/fdfd475323aad7048be934fabd890bcc/cv.pdf">CV</a> 👈
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthalless&layout=compact&langs_count=7&theme=midnight-purple"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasthalless&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> -->

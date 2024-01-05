@@ -2,7 +2,7 @@
   <a href="https://github.com/lucasthalless">
   <a href="./README_en.md">English</a> 👈
   </br>
-  <a href="https://github.com/lucasthalless/lucasthalless/blob/main/cv.pdf">CV</a> 👈
+<!--   <a href="https://github.com/lucasthalless/lucasthalless/blob/main/cv.pdf">CV</a> 👈 -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthalless&layout=compact&langs_count=7&theme=midnight-purple"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasthalless&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> -->
 </div>

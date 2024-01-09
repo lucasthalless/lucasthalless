@@ -10,7 +10,7 @@
 <div style="display: inline_block" align="center"><br>
 <!--   <img align="left" width="430em" src="https://github.com/lucasthalless/lucasthalless/blob/main/biggerpicture.jpg"/> -->
   <!-- ✩₊˚.⋆☾⋆⁺₊✧ 𓃢 -->
-  <p>Desenvolvedor Web/mobile com mais de dois anos de experiência, trabalho principalmente com essas tecnologias:</p>
+  <p>Desenvolvedor Web/mobile desde 2020! trabalho principalmente com essas tecnologias:</p>
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

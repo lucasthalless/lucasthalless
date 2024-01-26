@@ -5,7 +5,7 @@
 
 <div align="center">Desenvolvedor Web/mobile desde 2020!</div>
 
-#### Tech stack:
+### Tech stack:
 
 🖥️ Front end:
 

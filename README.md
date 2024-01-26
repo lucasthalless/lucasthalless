@@ -1,7 +1,7 @@
 <!-- <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthalless&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div> -->
-[English](./README_en.md) 👈
+<!-- [English](./README_en.md) 👈 -->
 
 Desenvolvedor Web/mobile desde 2020! trabalho principalmente com essas tecnologias:
 

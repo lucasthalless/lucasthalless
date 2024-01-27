@@ -31,7 +31,7 @@
 
 </details>
 
-<br>
+  ##
 
 <details> 
 <summary> Outras skills ↴</summary>
@@ -40,8 +40,6 @@
 ![](https://img.shields.io/badge/Git%20(Github,%20Gitlab,%20GitFlow)-black?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed) ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=for-the-badge&logo=apollo-graphql&logoColor=311C87) ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=3982CE)
 
 </details>
-
-  ##
 
 <details> 
 <summary> Atualmente estudando ↴</summary>

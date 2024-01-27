@@ -3,29 +3,33 @@
 </div> -->
 <!-- [English](./README_en.md) 👈 -->
 
-<div align="center">desenvolvedor web/mobile ✸ desde 2020 </div>
+<!-- <div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->
+
+<br>
+
+<div align="center"><strong>desenvolvedor web/mobile ✸ desde 2020 </strong></div>
 
 —
 
-</> Trabalho principalmente com:
+ Trabalho principalmente com
 
-Front end
+<details> 
+<summary> Front end ↴</summary>
+<br>
 
 ![](https://img.shields.io/badge/React%20(Hooks,%20Context)-black?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC) ![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=%23C21325) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-black?style=for-the-badge&logo=testing-library&logoColor=%23E33332)
 
-Back end e banco de dados
+</details>
+
+<details> 
+<summary> Back end e banco de dados ↴</summary>
+<br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=E10098) ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192) ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=%2300f) ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger&logoColor=%23Clojure) ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=%23C21325)
 
-  ##
-
-Atualmente estudando:
-
-![](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel) ![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20) ![Vue.js](https://img.shields.io/badge/vuejs-black.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-black.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E) ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
-
-<br>
+</details>
 
 <details> 
 <summary> Outras skills ↴</summary>
@@ -35,6 +39,18 @@ Atualmente estudando:
 
 </details>
 
+  ##
+
+<details> 
+<summary> Atualmente estudando ↴</summary>
+<br>
+
+![](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel) ![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20) ![Vue.js](https://img.shields.io/badge/vuejs-black.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-black.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E) ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
+
+</details>
+
+<br>
+
   <!-- ## -->
  
 <!-- <div align="left">
@@ -42,6 +58,6 @@ Atualmente estudando:
   
 </div> -->
 
-<!-- <br>
+<!-- <br> -->
 
-<div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->
+<!-- <div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->

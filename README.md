@@ -3,11 +3,11 @@
 </div> -->
 <!-- [English](./README_en.md) 👈 -->
 
-<!-- <div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->
+<div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div>
 
 <br>
 
-<div align="center"><strong>desenvolvedor web,mobile ✸ desde 2020 </strong></div>
+<div align="center"><strong>desenvolvedor web,mobile ✷ desde 2020 </strong></div>
 
 —
 
@@ -68,6 +68,6 @@
   
 </div> -->
 
-<!-- <br> -->
+<br>
 
-<!-- <div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->
+<div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div>

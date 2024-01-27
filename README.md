@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="center"><strong>desenvolvedor web/mobile ✸ desde 2020 </strong></div>
+<div align="center"><strong>desenvolvedor web,mobile ✸ desde 2020 </strong></div>
 
 —
 
@@ -32,6 +32,16 @@
 </details>
 
 <details> 
+<summary> Mobile ↴</summary>
+<br>
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</details>
+
+<br>
+
+<details> 
 <summary> Outras skills ↴</summary>
 <br>
 
@@ -49,7 +59,7 @@
 
 </details>
 
-<br>
+<!-- <br> -->
 
   <!-- ## -->
  

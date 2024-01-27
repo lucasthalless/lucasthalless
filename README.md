@@ -11,27 +11,27 @@
 
 —
 
- Trabalho principalmente com
+Trabalho principalmente com —
 
 <details> 
-<summary> Front end ↴</summary>
+<summary> Front end 🖥️ ↴</summary>
 <br>
 
-![](https://img.shields.io/badge/React%20(Hooks,%20Context)-black?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![](https://img.shields.io/badge/React%20(Hooks,%20Context)-black?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC) ![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=%23C21325) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-black?style=for-the-badge&logo=testing-library&logoColor=%23E33332)
 
 </details>
 
 <details> 
-<summary> Back end e banco de dados ↴</summary>
+<summary> Back end e banco de dados ⚙️ ↴</summary>
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=E10098) ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192) ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=%2300f) ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger&logoColor=%23Clojure) ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=%23C21325)
 
 </details>
 
-  ##
+—
 
 <details> 
 <summary> Outras skills ↴</summary>

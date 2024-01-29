@@ -42,7 +42,7 @@ Trabalho principalmente com —
 </details>
 
 <details> 
-<summary> Atualmente estudando ↴</summary>
+<summary> Atualmente estudando 📚 ↴</summary>
 <br>
 
 ![](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel) ![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20) ![Vue.js](https://img.shields.io/badge/vuejs-black.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-black.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E) ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)

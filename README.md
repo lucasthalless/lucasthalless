@@ -27,7 +27,7 @@ Trabalho principalmente com —
 <summary> Back end e banco de dados ⚙️ ↴</summary>
 <br>
 
-![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=E10098) ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192) ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=%2300f) ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger&logoColor=%23Clojure) ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=%23C21325)
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![NestJS](https://img.shields.io/badge/nestjs-black.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E) ![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=E10098) ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192) ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=%2300f) ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger&logoColor=%23Clojure) ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=%23C21325)
 
 </details>
 

@@ -3,7 +3,7 @@
 </div> -->
 <!-- [English](./README_en.md) 👈 -->
 
-<!-- <div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->
+<!-- lucas thalles dos santos -->
 
 <br>
 
@@ -58,6 +58,4 @@ Trabalho principalmente com —
   
 </div> -->
 
-<!-- <br>
-
-<div align="center">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟</div> -->
+<!-- lucas thalles dos santos -->

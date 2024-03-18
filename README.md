@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="center"><strong>desenvolvedor web ✷ mobile ✷ desde 2020 </strong></div>
+<div align="center"><strong>desenvolvedor de software ✷ Full stack ✷ web ✷ mobile ✷ desde 2020 </strong></div>
 
 —
 

@@ -45,7 +45,16 @@ Trabalho principalmente com —
 <summary> Atualmente estudando 📚 ↴</summary>
 <br>
 
+Tecnologias —<br>
 ![](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel) ![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20) ![Vue.js](https://img.shields.io/badge/vuejs-black.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NestJS](https://img.shields.io/badge/nestjs-black.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E) ![Redux](https://img.shields.io/badge/redux-black.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
+<br><br>
+Cursando —<br>
+Tecnologia em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br)
+<br><br>
+Lista de leituras —<br>
+
+- [ ] Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos — Aditya Y. Bhargava :bookmark:
+- [ ] Código Limpo: Habilidades Práticas do Agile Software — Robert C. Martin :bookmark:
 
 </details>
 

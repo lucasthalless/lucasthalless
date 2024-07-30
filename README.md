@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="center"><strong>desenvolvedor de software ✷ full stack ✷ desde 2020 </strong></div>
+<div align="center"><strong>full stack dev ✷ desde 2020 </strong></div>
 
 —
 
